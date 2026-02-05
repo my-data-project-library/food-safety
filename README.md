@@ -7,7 +7,7 @@
 
 ## 🎯 主要发现
 ### 1. 地域风险特征
-- 欠发达地区不本地合格率高达86%
+- 欠发达地区本地不合格率高达86%
 - 海南省、甘肃省是风险最集中的地区
 
 ### 2. 不合格项目分布
@@ -30,10 +30,12 @@
 - **可视化**：数据透视表、饼图、折线图
 
 ## 📈 关键图表
-![地区风险分布对比](charts/region_comparison.png)
-*欠发达地区严重超标率更高*
+![不同程度占比](<img width="800" height="453" alt="不同程度" src="https://github.com/user-attachments/assets/9714d4d4-494f-4e4c-8c1b-227eaa91fa35" />
+)
+*严重超标占比极高*
 
-![不合格项目TOP5](charts/top5_issues.png)
+![不合格项目TOP5](<img width="1029" height="843" alt="前五项1" src="https://github.com/user-attachments/assets/6f9091e2-f75a-40a1-bb12-0804e96c973b" />
+)
 *霉菌残留量是最突出问题*
 
 ## 📁 文件说明
